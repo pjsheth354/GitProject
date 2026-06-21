@@ -33,3 +33,20 @@ x = "Priyam"
 y = "Sheth"
 print (x*2)
 print (x + " " + y)
+
+#The print function prints with on a new line everytime.
+#Print function without printing in the new line
+print("Hello World!", end=" ")
+print("Have a good day")
+
+#Mutlivalue Variable
+x,y,z = "Apple","Orange","Banana"
+print(x)
+print(y)
+print(z)
+
+#Multiple Variable but single value variable
+f = r = u = "Apple"
+print(f)
+print(r)
+print(u)
